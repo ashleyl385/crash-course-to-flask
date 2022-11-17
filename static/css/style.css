@@ -1,0 +1,46 @@
+html, body, *{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(255,0,0);
+}
+span{ 
+    color: red
+}
+.red-text{
+
+}
+/*id is most specific, class can be used multiple times 
+
+text-align: center
+
+<div> = group things together
+
+.card{
+    height
+    width
+    display: flex
+    align-items: center
+    justify-content: space-between
+    flex-direction
+    border
+    margin
+    transition: all 0.3s;
+}
+.card:hover{
+    transform: scale(1.1) translateY(-1px);
+}
+.card-img{
+    width: %
+}
+.flex-container{
+    display:flex;
+    justify-content: space-evenly;(allocates extra space in between or around elements)
+    flex-wrap: wrap; (wraps next card to new line when space is gone)
+    width:
+    margin: auto (centers element}
+    background-color
+}
+
